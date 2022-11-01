@@ -1,4 +1,7 @@
 # Meshfree-Modelling-of-Thin-Plate-Bending-Using-Reproducing-Kernel-Particle-Method-RKPM-
+**How to run:**
+Read "plate_RKPM" as the main script; the rest are the UDF
+
 **Subject:**
 A project report submitted in partial fulfilment of the requirements for the award of the degree of Master of Engineering (Structure)
 
