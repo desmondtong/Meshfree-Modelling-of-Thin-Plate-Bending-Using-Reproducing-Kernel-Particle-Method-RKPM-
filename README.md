@@ -1,4 +1,4 @@
-# Meshfree-Modelling-of-Thin-Plate-Bending-Using-Reproducing-Kernel-Particle-Method-RKPM-
+# Meshfree Modelling of Thin Plate Bending Using Reproducing Kernel Particle Method RKPM
 **How to run:**
 Read "plate_RKPM" as the main script; the rest are the UDF
 
